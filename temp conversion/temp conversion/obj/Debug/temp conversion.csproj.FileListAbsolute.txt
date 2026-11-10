@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\temp conversion\temp conversion\bin\Debug\temp conversion.exe.config
+C:\Users\user\source\repos\temp conversion\temp conversion\bin\Debug\temp conversion.exe
+C:\Users\user\source\repos\temp conversion\temp conversion\bin\Debug\temp conversion.pdb
+C:\Users\user\source\repos\temp conversion\temp conversion\obj\Debug\temp conversion.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\temp conversion\temp conversion\obj\Debug\temp_conversion.Form1.resources
+C:\Users\user\source\repos\temp conversion\temp conversion\obj\Debug\temp_conversion.Properties.Resources.resources
+C:\Users\user\source\repos\temp conversion\temp conversion\obj\Debug\temp conversion.csproj.GenerateResource.cache
+C:\Users\user\source\repos\temp conversion\temp conversion\obj\Debug\temp conversion.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\temp conversion\temp conversion\obj\Debug\temp conversion.exe
+C:\Users\user\source\repos\temp conversion\temp conversion\obj\Debug\temp conversion.pdb
+C:\Users\user\source\repos\temp conversion\temp conversion\obj\Debug\temp conversion.exe.config
